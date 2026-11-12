@@ -8,5 +8,7 @@ Due to copyright laws I cannot redistribute the videos in which this pipeline wa
 CONTENTS:
 
 'ball_tracker_py' is the main script that extracts the ball coordinates for a given video
+
 'ball_tracker_overlay.py' renders the position of the ball over the video in temporal synchrony to allow you to confirm that the tracker is accurate. 
+
 'Football_Ball_Convergence.m' is a matlab script that will extract the gaze data from an EDF file and calculate metrics relating to the gaze-to-ball distance throughout each video using the extracted ball coordinates.
